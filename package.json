@@ -1,6 +1,6 @@
 {
   "name": "node-sap-mongo-config",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Applicative configuration in Mongo DB",
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "node-sap-logging": "0.3.0",
-    "node-sap-promise": "0.3.0",
-    "node-sap-common": "0.3.0"
+    "node-sap-promise": "0.3.1",
+    "node-sap-common": "0.3.1"
   },
   "devDependencies": {
     "chai": "~2.2.0",
